@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+.nav{
+    background-color: #EEEEEE;
+}
+.nav input{
+    width: 330px;
+    text-align: left;
+}
+.footer .box1{
+    width: 37%;
+    height: 80px;
+    display: inline;
+    margin-top: 2px;
+    float: left;
+    background-color: #7EE5DA;
+}
+.footer .box1 a{
+    display: block;
+}
+.footer .box1 h4{
+    margin-top: 10px;
+    font-weight: 100;
+}
+.footer .box2{
+    width: 20%;
+    height: 80px;
+    display: inline;
+    margin: 2px;
+    float: left;
+    background-color: #70CCC2;
+    line-height: 20px;
+}
+.footer .box2 a{
+    display: block;
+}
+
+.footer .box3{
+    width: 42.7%;
+    height: 80px;
+    display: inline;
+    margin-top: 2px;
+    float: left;
+    background-color: #62B3AA;
+}
+.footer .box3 a{
+    display: inline-flex;
+}
+.footer .box3 #emailText{
+    text-align: left;
+}
+
+   
